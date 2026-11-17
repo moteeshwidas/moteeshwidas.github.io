@@ -3,7 +3,6 @@
   "client_name": "Cursor MCP",
   "client_uri": "https://cursor.com",
   "redirect_uris": [
-    "http://127.0.0.1:8787/callback",
     "https://www.cursor.com/agents/mcp/oauth/callback"
   ],
   "grant_types": ["authorization_code", "refresh_token"],
